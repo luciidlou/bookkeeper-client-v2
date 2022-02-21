@@ -1,4 +1,11 @@
-.login-container {
-    display: flex;
-    text-align: center;
+.login {
+    width: 60%;
+    height: 40%;
+    margin: 20% auto;
+}
+.subtitle {
+    opacity: 60%;
+}
+.image {
+    margin: auto;
 }
